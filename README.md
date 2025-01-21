@@ -1,3 +1,3 @@
-# Master-Thesis
+# Master thesis
 
-#This directory contains part of the scripts used in my master thesis. The rest of the scripts can be found here: https://github.com/uzh-dqbm-cmi/SAUNA
+This repository contains a subset of the scripts used in my master thesis. For the complete rest of the scripts and further details, please visit the SAUNA repository: https://github.com/uzh-dqbm-cmi/SAUNA.
